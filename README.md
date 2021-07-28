@@ -1,7 +1,8 @@
 # Todo list
 Todo list создан на React JS для учебных целей.
 
-![Image of Website](https://github.com/NazirovJr/google-clone/blob/main/google-demo.gif)
+![bandicam 2021-07-28 21-17-00-679](https://user-images.githubusercontent.com/69512372/127375576-cfd8d9fe-9d95-42c8-ad08-7cee3e07a601.gif)
+
 
 # Используемая технология
 
